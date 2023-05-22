@@ -1,0 +1,30 @@
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\bin\Debug\net7.0\HigherOrLower.exe
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\bin\Debug\net7.0\HigherOrLower.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\bin\Debug\net7.0\HigherOrLower.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\bin\Debug\net7.0\HigherOrLower.dll
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\bin\Debug\net7.0\HigherOrLower.pdb
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\HigherOrLower.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\HigherOrLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\HigherOrLower.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\HigherOrLower.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\HigherOrLower.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\HigherOrLower.dll
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\refint\HigherOrLower.dll
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\HigherOrLower.pdb
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\HigherOrLower.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\HigherOrLower\obj\Debug\net7.0\ref\HigherOrLower.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\bin\Debug\net7.0\HigherOrLower.exe
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\bin\Debug\net7.0\HigherOrLower.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\bin\Debug\net7.0\HigherOrLower.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\bin\Debug\net7.0\HigherOrLower.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\bin\Debug\net7.0\HigherOrLower.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\HigherOrLower.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\HigherOrLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\HigherOrLower.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\HigherOrLower.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\HigherOrLower.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\HigherOrLower.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\refint\HigherOrLower.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\HigherOrLower.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\HigherOrLower.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Orta Seviye Projeler\HigherOrLower\obj\Debug\net7.0\ref\HigherOrLower.dll
